@@ -1,1 +1,2 @@
-Es la primera prueba en github y la estoy modificando
+Es la primera prueba en github y la estoy modificando desde el terminal
+Ahora la estoy editando desde github
